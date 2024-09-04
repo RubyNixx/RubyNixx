@@ -58,3 +58,7 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 ## Page Views
 
 ![Visitor Count](https://profile-counter.glitch.me/{RubyNixx}/count.svg)
+
+## 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RubyNixx&show_icons=true&theme=gotham" alt="RubyNixx" />
