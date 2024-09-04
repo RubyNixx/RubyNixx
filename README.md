@@ -54,3 +54,5 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 ## Acknowledgments
 
 - See people I follow or repositories I've starred.
+
+![Visitor Count](https://profile-counter.glitch.me/{RubyNixx}/count.svg)
