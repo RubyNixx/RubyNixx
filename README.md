@@ -22,7 +22,7 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on automating all reporting in my role; mainly RTT, Outpatients & Inpatients.
-- 🌱 I’m currently learning Python, R & Databricks. I'm also currently on a Data Analytics MsC with BPP University.
+- 🌱 I’m learning Python, R & Databricks. I'm also studying on a Data Analytics MsC with BPP University.
 - 👯 I’m looking to collaborate on any NHS England regional projects which could support a reduction in duplication, automated reporting utilising the tools i'm currently learning & all areas of elective NHS data.
 - 🤔 I’m looking for help with any articles linked to machine learning, data science & databricks.
 - 💬 Ask me about SQL, process mining or ideas on visualising data and framing analytical problems.
