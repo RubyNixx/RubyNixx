@@ -40,12 +40,17 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 ### Process Mining
 - **Description**: Utilising healthcare data for process mining using open source languages
 - **Technologies Used**: R, Python
-- **Link**: https://github.com/RubyNixx/Process_Mining_R_Healthcare
+- **Link**: [Process Mining R code with sample dataset](https://github.com/RubyNixx/Process_Mining_R_Healthcare)
 
 ### Data Analytics MsC
 - **Description**: Currently undertaking a masters in Data Analytics with projects in programming.
 - **Technologies Used**: Python
-- **Link**: Telecomm Churn Analysis
+- **Link**: [Telecomm Churn Analysis](https://github.com/RubyNixx/BPP_Telecomm_Churn)
+
+### Spotipy API
+- **Description**: Using the spotipy API to visualise my listening habits on Spotify.
+- **Technologies Used**: Python, Google Colab
+- **Link**: [Spotify analysis using spotipy](https://github.com/RubyNixx/spotify_analysis_using_spotipy)
 
 ## Get in Touch
 
