@@ -1,16 +1,5 @@
 <!--
 **RubyNixx/RubyNixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # Hi there, I'm Ruby 👋
 
@@ -31,19 +20,21 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 
 ## Skills
 
-- **Languages**: Python, R, T-SQL
-- **Tools**: Git
-- **Databases**: Microsoft SQL Server, Azure
+- **Programming Languages**: Python ::snake::, R, T-SQL
+- **Big Data & Analytics Frameworks:** PySpark, Spark SQL
+- **Version Control**: Git
+- **Cloud & Development Platforms:** Databricks, Azure
+- **Databases**: Microsoft SQL Server
 
 ## Projects
 
 ### Process Mining
-- **Description**: Utilising healthcare data for process mining using open source languages
+- **Description**: Utilising healthcare data for process mining using open source languages. Currently have a R template, building a python template.
 - **Technologies Used**: R, Python
 - **Link**: [Process Mining R code with sample dataset](https://github.com/RubyNixx/Process_Mining_R_Healthcare)
 
 ### Data Analytics MsC
-- **Description**: Currently undertaking a masters in Data Analytics with projects in programming.
+- **Description**: Currently undertaking a masters in Data Analytics with projects in programming. Most recent project was to build a model to predict how many customers will leave.
 - **Technologies Used**: Python
 - **Link**: [Telecomm Churn Analysis](https://github.com/RubyNixx/BPP_Telecomm_Churn)
 
@@ -52,9 +43,13 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 - **Technologies Used**: Python, Google Colab
 - **Link**: [Spotify analysis using spotipy](https://github.com/RubyNixx/spotify_analysis_using_spotipy)
 
+## Coding Cheat Sheets & Useful Stuff
+-**Description**: Pulls together useful resources on the coding languages i use. Feel free to suggest anything not listed or share your own.
+-**Link**: [Coding Resources](https://github.com/RubyNixx/coding_resources)
+
 ## Get in Touch
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rubynix/))
+- [LinkedIn](https://www.linkedin.com/in/rubynix/)
 
 ## Acknowledgments
 
