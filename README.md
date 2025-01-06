@@ -53,7 +53,11 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 
 ## Acknowledgments
 
-- See people I follow or repositories I've starred.
+See people I follow or repositories I've starred. Repo's worth a special mention below:
+
+### Forecasting by Paul Carroll
+-**Description**: Pulls together different methods of forecasting, with easy to follow plain english descriptions. I used this alot for time series forecasting as a reference point. Each methods subfolder has great instructions to follow with code.
+-**Link**: [Forecasting](https://github.com/pauldcarroll/Forecasting.git)
 
 ## Page Views
 
