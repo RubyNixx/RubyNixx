@@ -20,7 +20,7 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 
 ## Skills
 
-- **Programming Languages**: Python ::snake::, R, T-SQL
+- **Programming Languages**: Python :snake:, R, T-SQL
 - **Big Data & Analytics Frameworks:** PySpark, Spark SQL
 - **Version Control**: Git
 - **Cloud & Development Platforms:** Databricks, Azure
