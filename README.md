@@ -31,7 +31,7 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 ### Process Mining
 - **Description**: Utilising healthcare data for process mining using open source languages. Currently have a R template, building a python template.
 - **Technologies Used**: R, Python
-- **Link**: [Process Mining R code with sample dataset](https://github.com/RubyNixx/Process_Mining_R_Healthcare)
+- **Link**: [Process Mining R code with sample dataset](https://github.com/RubyNixx/Process_Mining_R_Healthcare) and [Process Mining Python Notebook with sample dataset](https://github.com/RubyNixx/Process_Mining_Python_Healthcare)
 
 ### Data Analytics MsC
 - **Description**: Currently undertaking a masters in Data Analytics with projects in programming. Most recent project was to build a model to predict how many customers will leave.
