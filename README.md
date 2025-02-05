@@ -7,20 +7,20 @@
 
 I'm a Senior Analytical Manager with a passion for data visualisation techniques, process mining healthcare data & telling stories with data. I love to learn new technologies and improve my skills.
 
-My career is mainly in Acute Hospitals where I've managed analytical teams, however over the last few years I've been working in NHS England within the East of England Region. I enjoy coaching people & supporting other analysts in problem solving.
+My career is mainly in Acute Hospitals where I've managed analytical teams, however over the last few years I've been working in NHS England within the East of England Region. I enjoy coaching people & supporting other analysts in problem solving & upskilling in technical skills.
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on automating all reporting in my role; mainly RTT, Outpatients & Inpatients.
-- 🌱 I’m learning Python, R & Databricks. I'm also studying on a Data Analytics MsC with BPP University.
+- 🔭 I’m currently working on automating all reporting in my role; mainly RTT, Outpatients & Inpatients, using databricks + python. If there's something that can be done better and more efficiently, I want to hear about it.
+- 🌱 Always learning Python & Databricks or struggling to debug some R code. I'm also studying on a Data Analytics MsC with BPP University.
 - 👯 I’m looking to collaborate on any NHS England regional projects which could support a reduction in duplication, automated reporting utilising the tools i'm currently learning & all areas of elective NHS data.
 - 🤔 I’m looking for help with any articles linked to machine learning, data science & databricks.
-- 💬 Ask me about SQL, process mining or ideas on visualising data and framing analytical problems.
+- 💬 Ask me about SQL, coding in pyspark/databricks/python/colab, process mining or ideas on visualising data and framing analytical problems.
 - 📫 How to reach me: If you would like to connect professionally, you can contact me either on ruby.nicholls@nhs.net or my linkedin page.
 - ⚡ Fun fact: When i'm coding my go-to music choices are usually either metalcore or indie dreampop - have a look at my spotify analysis!
 
 ## Skills
 
-- **Programming Languages**: Python :snake:, R, T-SQL
+- **Programming Languages**: Python :snake: & T-SQL. Sometimes I dabble in R if needed, but it's not my preferred language.
 - **Big Data & Analytics Frameworks:** PySpark, Spark SQL
 - **Version Control**: Git
 - **Cloud & Development Platforms:** Databricks, Azure
