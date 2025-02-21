@@ -34,9 +34,16 @@ My career is mainly in Acute Hospitals where I've managed analytical teams, howe
 - **Link**: [Process Mining R code with sample dataset](https://github.com/RubyNixx/Process_Mining_R_Healthcare) and [Process Mining Python Notebook with sample dataset](https://github.com/RubyNixx/Process_Mining_Python_Healthcare)
 
 ### Data Analytics MsC
-- **Description**: Currently undertaking a masters in Data Analytics with projects in programming. Most recent project was to build a model to predict how many customers will leave.
+- **Description**: Currently undertaking a masters in Data Analytics with projects in programming. Most recent project was to build a a regression model and time series analysis on a chosen dataset; I chose A&E Attendances which is published data. Previous assignments have included prediction of churn of customers in a fictional company. I've included both notebooks below. I achieved a distinction in both of these pieces of work, but scored a high distinction in the Time Series Analysis & Regression Modelling. I feel that my coding had improved quite alot by this submission which helped. I received good feedback on using a challenging dataset, clear presentation, well motivated & confident use of appropriate visualisation techniques, accompanied by excellent explanations from the meaning of the colour coding to the relevance of shaded areas in the autocorrelation plots.
+
 - **Technologies Used**: Python
-- **Link**: [Telecomm Churn Analysis](https://github.com/RubyNixx/BPP_Telecomm_Churn)
+- **Link**:
+
+- [A&E Time Series Analysis and Regression](https://github.com/RubyNixx/Time_Series_And_Regression)
+Mark: 80/100 - Distinction
+
+- [Telecomm Churn Analysis](https://github.com/RubyNixx/BPP_Telecomm_Churn)
+Mark: 70/100 - Distinction
 
 ### Spotipy API
 - **Description**: Using the spotipy API to visualise my listening habits on Spotify.
