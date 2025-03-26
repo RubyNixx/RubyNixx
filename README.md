@@ -72,4 +72,6 @@ See people I follow or repositories I've starred. Repo's worth a special mention
 
 ## 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RubyNixx&show_icons=true&theme=gotham" alt="RubyNixx" />
+<img src="https://github-readme-stats.vercel.app/api?username=RubyNixx&show_icons=true&theme=gotham&rank_icon=github" alt="RubyNixx" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubyNixx&layout=compact)
